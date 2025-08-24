@@ -121,7 +121,7 @@ const Leadership = () => {
                   </div>
 
                   <div className="mt-3 pt-2 border-t border-gray-200 text-right">
-                    <span className="text-xs text-gray-500 italic">- Shashank Shetty</span>
+                    <span className="text-xs text-gray-500 italic">- Shashank RR</span>
                   </div>
                 </div>
               </div>
@@ -175,7 +175,7 @@ const Leadership = () => {
 
                       {/* Author attribution */}
                       <div className={`mt-4 pt-3 border-t border-gray-200 ${index % 2 === 0 ? 'text-right' : 'text-left'}`}>
-                        <span className="text-xs text-gray-500 italic">- Shashank Shetty</span>
+                        <span className="text-xs text-gray-500 italic">- Shashank RR</span>
                       </div>
                     </div>
                   </div>
@@ -208,5 +208,6 @@ const Leadership = () => {
     </section>
   );
 };
+
 
 export default Leadership;
