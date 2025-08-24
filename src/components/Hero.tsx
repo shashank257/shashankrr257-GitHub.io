@@ -115,13 +115,13 @@ const Hero = () => {
             {/* Social Links */}
             <div className="animate-on-scroll opacity-0 transform translate-y-10 delay-400">
               <div className="flex justify-center lg:justify-start space-x-6 mt-8">
-                <a href="#" className="text-gray-400 hover:text-white transition-colors duration-300 transform hover:scale-110">
+                <a href="https://github.com/shashank257" className="text-gray-400 hover:text-white transition-colors duration-300 transform hover:scale-110">
                   <Github size={24} />
                 </a>
-                <a href="#" className="text-gray-400 hover:text-white transition-colors duration-300 transform hover:scale-110">
+                <a href=" https://www.linkedin.com/in/shashankrr/" className="text-gray-400 hover:text-white transition-colors duration-300 transform hover:scale-110">
                   <Linkedin size={24} />
                 </a>
-                <a href="#" className="text-gray-400 hover:text-white transition-colors duration-300 transform hover:scale-110">
+                <a href="mailto:sreddyhallirakesh@ucsd.edu" className="text-gray-400 hover:text-white transition-colors duration-300 transform hover:scale-110">
                   <Mail size={24} />
                 </a>
               </div>
