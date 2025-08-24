@@ -119,7 +119,7 @@ const Projects = () => {
                   </div>
                   
                   <div className="mt-3 pt-2 border-t border-white/20 text-right">
-                    <span className="text-xs text-gray-300 italic">- Shashank Shetty</span>
+                    <span className="text-xs text-gray-300 italic">- Shashank RR</span>
                   </div>
                 </div>
               </div>
@@ -187,3 +187,4 @@ const Projects = () => {
 
 
 export default Projects;
+
