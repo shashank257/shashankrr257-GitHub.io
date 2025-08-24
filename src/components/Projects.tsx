@@ -171,7 +171,7 @@ const Projects = () => {
                       </div>
 
                       <div className={`${index % 2 === 0 ? 'text-right' : 'text-left'} mt-3 pt-2 border-t border-white/20`}>
-                        <span className="text-xs text-gray-300 italic">- Shashank Shetty</span>
+                        <span className="text-xs text-gray-300 italic">- Shashank RR</span>
                       </div>
                     </div>
                   </div>
@@ -184,5 +184,6 @@ const Projects = () => {
     </section>
   );
 };
+
 
 export default Projects;
