@@ -67,13 +67,13 @@ const Contact = () => {
 
             <div className="animate-on-scroll opacity-0 transform translate-y-10 delay-300">
               <div className="flex space-x-4 sm:space-x-6 justify-center sm:justify-start">
-                <a href="#" className="p-2 sm:p-3 bg-gray-800 rounded-full hover:bg-emerald-600 transition-colors duration-300 group">
+                <a href="https://github.com/shashank257" className="p-2 sm:p-3 bg-gray-800 rounded-full hover:bg-emerald-600 transition-colors duration-300 group">
                   <Github className="w-5 h-5 sm:w-6 sm:h-6 group-hover:scale-110 transition-transform" />
                 </a>
-                <a href="#" className="p-2 sm:p-3 bg-gray-800 rounded-full hover:bg-teal-600 transition-colors duration-300 group">
+                <a href="mailto:sreddyhallirakesh@ucsd.edu" className="p-2 sm:p-3 bg-gray-800 rounded-full hover:bg-teal-600 transition-colors duration-300 group">
                   <Mail className="w-5 h-5 sm:w-6 sm:h-6 group-hover:scale-110 transition-transform" />
                 </a>
-                <a href="#" className="p-2 sm:p-3 bg-gray-800 rounded-full hover:bg-cyan-600 transition-colors duration-300 group">
+                <a href=" https://www.linkedin.com/in/shashankrr/ " className="p-2 sm:p-3 bg-gray-800 rounded-full hover:bg-cyan-600 transition-colors duration-300 group">
                   <Linkedin className="w-5 h-5 sm:w-6 sm:h-6 group-hover:scale-110 transition-transform" />
                 </a>
               </div>
